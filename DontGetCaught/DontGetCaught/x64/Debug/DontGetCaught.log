@@ -1,6 +1,0 @@
-﻿  CAndOsOhMy.cpp
-C:\Users\Cpric\source\repos\CAndOsOhMy\CAndOsOhMy\CAndOsOhMy.cpp(13,20): error C2248: 'Game::MoveEnemy': cannot access private member declared in class 'Game'
-C:\Users\Cpric\source\repos\CAndOsOhMy\CAndOsOhMy\Game.h(31,7): message : see declaration of 'Game::MoveEnemy'
-C:\Users\Cpric\source\repos\CAndOsOhMy\CAndOsOhMy\Game.h(7,7): message : see declaration of 'Game'
-  Game.cpp
-  Generating Code...
